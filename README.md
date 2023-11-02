@@ -2,7 +2,7 @@
 
 Reqres App built with Jetpack Compose
 
-\nStack Technologies : 
+Stack Technologies : 
 Kotlin 
 Jetpack Libraries 
 Jetpack Compose
